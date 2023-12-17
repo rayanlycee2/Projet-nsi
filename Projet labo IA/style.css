@@ -1,0 +1,84 @@
+head {
+margin=0;
+padding=0;
+box sizing= border-box;
+font-family: "Poppins", sans-serif;
+}
+
+.header{ 
+position:fixed;
+  top:0;
+  left:0;
+  width: 100%;
+  padding: 20px 100px;
+  background: white;
+  display: flex;
+  align-items: center;
+  z-index:100
+
+}
+
+.logohead {
+margin=0;
+padding=0;
+box sizing= border-box;
+font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  font-size:28px;
+  color: firebrick;
+  font-weight:1000;
+}
+
+html {
+
+  height: 100%;
+
+  width: 100%;
+
+	background: url('background.jpg') ;
+
+font-weight:700;
+
+font-family: "Poppins", sans-serif;
+
+}
+
+ 
+
+h1 {
+
+  text-align: center;
+  color: springgreen;
+
+}
+
+ 
+
+p {
+
+color:red ;
+
+font-size:22px;
+
+}
+
+img {
+width: 20ch;
+height: 20ch;
+}
+
+h2 {
+
+color: white;
+
+}
+
+a {
+
+color: cyan;
+
+}
+
+
